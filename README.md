@@ -1,8 +1,8 @@
 ## Hi, I'm Raj :)
-🎓 I am an IT engineering student at Pillai HOC College of Engineering and Technology.<br/>
-💻 I specialize in full-stack web development using Python, FastAPI, and modern JavaScript.<br/>
-🗄️ My core focus is building scalable backends and integrating robust SQL databases.<br/>
-🎯 I am actively expanding my skill set as I want to pursue my software engineering career in Japan.
+ I am an IT engineering student at Pillai HOC College of Engineering and Technology.<br/>
+ I specialize in full-stack web development using Python, FastAPI, and modern JavaScript.<br/>
+ My core focus is building scalable backends and integrating robust SQL databases.<br/>
+ I am actively expanding my skill set as I want to pursue my software engineering career in Japan.
 
 
 # 💻 Tech Stack:
